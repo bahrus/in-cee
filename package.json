@@ -1,0 +1,19 @@
+{
+  "name": "in-cee",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/in-cee.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahrus/in-cee/issues"
+  },
+  "homepage": "https://github.com/bahrus/in-cee#readme"
+}
